@@ -8,8 +8,8 @@ npm run dev</br>
 MongoDB URL: set in .env</br>
 Runs on: localhost:3000</br>
 </br>
-# Endpoint Rreference</br>
-</br>
+# Endpoint Rreference
+
 | Method | Endpoint                    | Description       |
 | ------ | --------------------------- | ----------------- |
 | GET    | `/api/v1/tasks/courses`     | Get all courses   |
@@ -22,10 +22,10 @@ Runs on: localhost:3000</br>
 | GET    | `/api/v1/tasks/faculty/:id` | Get faculty by ID |
 | PATCH  | `/api/v1/tasks/faculty/:id` | Update faculty    |
 | DELETE | `/api/v1/tasks/faculty/:id` | Delete faculty    |
-</br>
+
 # Data Model</br>
-</br>
-- Course :</br>
+
+- Course :
     {
         "id": "CSE201",
         "name": "Data Structures and Algorithms",
@@ -36,7 +36,7 @@ Runs on: localhost:3000</br>
         "prerequisites": [],
         "faculty_id": "F102"
     }
-- Faculty : </br>
+- Faculty : 
     {
         "id": "F106",
         "first_name": "Nikhil",
