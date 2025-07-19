@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1QRRqPonWXIsXiBVQQe37q11NzecoP5jo/view?usp=drive
 step 1 : git clone https://github.com/Rautrao/API-DEV.git </br>
 step 2 : cd API-DEV</br>
 step 3 : npm install</br>
-step 4 : add .env file to the project which contains connection string of his/her mongoDB atlas account stored in a variable named MONGO_URI. </br>
+step 4 : add .env file to the project which contains connection string of his/her mongoDB atlas account stored in a variable named MONGO_URI. I have included a .env.example file which contains the template of link with < to-Be-Filled-With-Personal-Account-Details > , </br>
 step 5 : save the files</br>
 step 6 : npm start </br>
 
