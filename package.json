@@ -1,0 +1,17 @@
+{
+  "name": "api-dev",
+  "version": "1.0.0",
+  "description": "api development project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express.js": "^1.0.0",
+    "mongoose": "^8.16.4",
+    "nodemon": "^3.1.10"
+  }
+}
