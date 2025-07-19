@@ -23,7 +23,7 @@ Runs on: localhost:3000</br>
 | PATCH  | `/api/v1/tasks/faculty/:id` | Update faculty    |
 | DELETE | `/api/v1/tasks/faculty/:id` | Delete faculty    |
 
-# Data Model</br>
+# Data Model
 
 - Course :
     {
