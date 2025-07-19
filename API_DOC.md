@@ -1,15 +1,15 @@
-# Setup Instructions
+# Setup Instructions</br>
 
-git clone <repo-url>
-cd project-root
-npm install
-npm run dev
-
-MongoDB URL: set in .env
-Runs on: localhost:3000
-
-# Endpoint Rreference
-
+git clone <repo-url></br>
+cd project-root</br>
+npm install</br>
+npm run dev</br>
+</br>
+MongoDB URL: set in .env</br>
+Runs on: localhost:3000</br>
+</br>
+# Endpoint Rreference</br>
+</br>
 | Method | Endpoint                    | Description       |
 | ------ | --------------------------- | ----------------- |
 | GET    | `/api/v1/tasks/courses`     | Get all courses   |
@@ -22,10 +22,10 @@ Runs on: localhost:3000
 | GET    | `/api/v1/tasks/faculty/:id` | Get faculty by ID |
 | PATCH  | `/api/v1/tasks/faculty/:id` | Update faculty    |
 | DELETE | `/api/v1/tasks/faculty/:id` | Delete faculty    |
-
-# Data Model
-
-- Course :
+</br>
+# Data Model</br>
+</br>
+- Course :</br>
     {
         "id": "CSE201",
         "name": "Data Structures and Algorithms",
@@ -36,7 +36,7 @@ Runs on: localhost:3000
         "prerequisites": [],
         "faculty_id": "F102"
     }
-- Faculty : 
+- Faculty : </br>
     {
         "id": "F106",
         "first_name": "Nikhil",
