@@ -11,10 +11,8 @@ step 4 : add .env file to the project which contains connection string of his/he
 step 5 : save the files</br>
 step 6 : npm start </br>
 
-</br>
-#
-Runs on: localhost:3000</br>
-</br>
+#Runs on: localhost:3000</br>
+
 # Endpoint Rreference
 
 | Method | Endpoint                    | Description       |
