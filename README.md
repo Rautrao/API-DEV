@@ -3,8 +3,8 @@
 step 1 : git clone https://github.com/Rautrao/API-DEV.git </br>
 step 2 : cd API-DEV</br>
 step 3 : npm install</br>
-step 4 : add .env file to the project which contains connection string of his/her mongoDB atlas account stored in a variable named MONGO_URI. 
-step 5 : save the files
+step 4 : add .env file to the project which contains connection string of his/her mongoDB atlas account stored in a variable named MONGO_URI. </br>
+step 5 : save the files</br>
 step 6 : npm start </br>
 
 </br>
