@@ -25,27 +25,27 @@ Runs on: localhost:3000</br>
 
 # Data Model
 
-- Course :
-    {
-        "id": "CSE201",
-        "name": "Data Structures and Algorithms",
-        "code": "CSE201",
-        "description": "Covers fundamental data structures and algorithmic techniques used in solving problems.",
-        "credits": 4,
-        "department": "Computer Science",
-        "prerequisites": [],
-        "faculty_id": "F102"
-    }
-- Faculty : 
-    {
-        "id": "F106",
-        "first_name": "Nikhil",
-        "last_name": "Bansal",
-        "email": "nikhil.bansal@iiitdm.ac.in",
-        "department": "Computer Science",
-        "specialization": ["Machine Learning", "Artificial Intelligence"],
-        "office_location": "Block B - Room 308",
-        "office_hours": "Tue/Thu 1-3PM"
-    }
+- Course :</br>
+    {</br>
+        "id": "CSE201",</br>
+        "name": "Data Structures and Algorithms",</br>
+        "code": "CSE201",</br>
+        "description": "Covers fundamental data structures and algorithmic techniques used in solving problems.",</br>
+        "credits": 4,</br>
+        "department": "Computer Science",</br>
+        "prerequisites": [],</br>
+        "faculty_id": "F102"</br>
+    }</br>
+- Faculty : </br>
+    {</br>
+        "id": "F106",</br>
+        "first_name": "Nikhil",</br>
+        "last_name": "Bansal",</br>
+        "email": "nikhil.bansal@iiitdm.ac.in",</br>
+        "department": "Computer Science",</br>
+        "specialization": ["Machine Learning", "Artificial Intelligence"],</br>
+        "office_location": "Block B - Room 308",</br>
+        "office_hours": "Tue/Thu 1-3PM"</br>
+    }</br>
     
     
